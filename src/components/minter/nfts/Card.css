@@ -1,0 +1,42 @@
+.token_card {
+  width: 360px;
+  height: 450px;
+  box-shadow: 1px 3px 5px gray;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.lbl {
+  font-size: 25px;
+}
+
+.content {
+  text-align: center;
+  font-family: monospace;
+  margin-bottom: 20px;
+}
+
+.btns {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+  margin-top: 20px;
+  flex-wrap: wrap;
+}
+
+.btns button {
+  font-size: 17px;
+  border: 1px solid gray;
+  padding: 5px 12px;
+  box-shadow: 1px 1px 5px gray;
+  border-radius: 5px;
+}
+
+.seller-addr {
+  font-family: monospace;
+}

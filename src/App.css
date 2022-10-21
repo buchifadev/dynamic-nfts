@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Mukta&display=swap');
+* {
+  font-family: "Mukta", sans-serif;
+}
+
+.add-btn {
+  margin-top: 30px;
+  border-radius: 10px;
+  border-color: blue;
+  padding: 5px 10px;
+}
+
+.all_nft {
+  display: flex;
+  flex-wrap: wrap;
+}

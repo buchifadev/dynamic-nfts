@@ -1,0 +1,23 @@
+.nav {
+    height: 160px;    
+}
+
+.logo_img {
+    height: 120px;
+    width: 120px;
+    border-radius: 40px;
+}
+
+.nav-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+}
+
+
+.nav-item button {
+    border-radius: 5px;
+    padding: 5px 10px;
+    border-color: blue;
+    background-color: white;
+}
