@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/dynamic-nfts/static/css/main.2678e9e1.chunk.css",
-    "main.js": "/dynamic-nfts/static/js/main.d05dcbbf.chunk.js",
-    "main.js.map": "/dynamic-nfts/static/js/main.d05dcbbf.chunk.js.map",
+    "main.js": "/dynamic-nfts/static/js/main.20bebdde.chunk.js",
+    "main.js.map": "/dynamic-nfts/static/js/main.20bebdde.chunk.js.map",
     "runtime-main.js": "/dynamic-nfts/static/js/runtime-main.d8e600ad.js",
     "runtime-main.js.map": "/dynamic-nfts/static/js/runtime-main.d8e600ad.js.map",
     "static/css/2.21e388fa.chunk.css": "/dynamic-nfts/static/css/2.21e388fa.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.21e388fa.chunk.css",
     "static/js/2.32f3bb33.chunk.js",
     "static/css/main.2678e9e1.chunk.css",
-    "static/js/main.d05dcbbf.chunk.js"
+    "static/js/main.20bebdde.chunk.js"
   ]
 }
