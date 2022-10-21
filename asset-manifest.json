@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/dynamic-nfts/static/css/main.2678e9e1.chunk.css",
+    "main.js": "/dynamic-nfts/static/js/main.d05dcbbf.chunk.js",
+    "main.js.map": "/dynamic-nfts/static/js/main.d05dcbbf.chunk.js.map",
+    "runtime-main.js": "/dynamic-nfts/static/js/runtime-main.d8e600ad.js",
+    "runtime-main.js.map": "/dynamic-nfts/static/js/runtime-main.d8e600ad.js.map",
+    "static/css/2.21e388fa.chunk.css": "/dynamic-nfts/static/css/2.21e388fa.chunk.css",
+    "static/js/2.32f3bb33.chunk.js": "/dynamic-nfts/static/js/2.32f3bb33.chunk.js",
+    "static/js/2.32f3bb33.chunk.js.map": "/dynamic-nfts/static/js/2.32f3bb33.chunk.js.map",
+    "index.html": "/dynamic-nfts/index.html",
+    "static/css/2.21e388fa.chunk.css.map": "/dynamic-nfts/static/css/2.21e388fa.chunk.css.map",
+    "static/css/main.2678e9e1.chunk.css.map": "/dynamic-nfts/static/css/main.2678e9e1.chunk.css.map",
+    "static/js/2.32f3bb33.chunk.js.LICENSE.txt": "/dynamic-nfts/static/js/2.32f3bb33.chunk.js.LICENSE.txt",
+    "static/media/bootstrap-icons.css": "/dynamic-nfts/static/media/bootstrap-icons.ea98e12d.woff2",
+    "static/media/dynamic_image.25f84803.jfif": "/dynamic-nfts/static/media/dynamic_image.25f84803.jfif",
+    "static/media/logo.9388447f.png": "/dynamic-nfts/static/media/logo.9388447f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8e600ad.js",
+    "static/css/2.21e388fa.chunk.css",
+    "static/js/2.32f3bb33.chunk.js",
+    "static/css/main.2678e9e1.chunk.css",
+    "static/js/main.d05dcbbf.chunk.js"
+  ]
+}
